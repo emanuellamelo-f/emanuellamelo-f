@@ -47,7 +47,7 @@
 * **Destaques:** Domínio do Pacote Office (especialmente Excel), gestão de agendas, controle de documentos e elaboração de relatórios.
 
 ### 3. 📐 Estagiária Técnica em Edificações | Camila Santos Arquitetura
-* **Período:** Concluído em 2018
+* **Período:** Concluido em 2018
 * **Destaques:** Experiência em leitura de plantas baixas (elétricas, hidráulicas e estruturais) e criação/aprimoramento de projetos em **AutoCAD**.
 
 ---
