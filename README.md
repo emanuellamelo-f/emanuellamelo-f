@@ -75,21 +75,4 @@
 * **Administração Financeira:** 40 horas (IFRS - 2005)
 * **Lógica de Programação: mergulhe em programação com JavaScript:** 6 horas (ALURA - Out/2025)
 
----
-
-### 🐉 Detalhe Geek: Cyber Dragon Style
-
-<p align="center">
-    <pre>
-       / \  / \
-      |   |/   |
-      \   \_  /
-       \  O  /   > •
-        `---'
-    </pre>
-</p>
-
-### 📊 Estatísticas (Tema Dark com cores Azuis e Vermelhas)
-
-<p>
   </p>
